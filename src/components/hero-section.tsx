@@ -10,7 +10,7 @@ export default function HeroSection() {
         <div className="flex flex-col items-center text-center lg:items-start lg:text-left">
           <Badge className="mb-9">
             <Globe />
-            Fullstack Web Developer
+            Full Stack Web Developer
           </Badge>
           <h1 className="text-5xl font-bold mb-6">Hi I'm, Rouen Quirino</h1>
           <p className="max-w-lg text-muted-foreground text-lg lg:text-xl mb-9">
