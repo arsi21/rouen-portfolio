@@ -17,7 +17,7 @@ export const technologies = {
       icon: "svg/technologies/tailwind.svg",
     },
     {
-      name: "ShadCN/ui",
+      name: "Shadcn/ui",
       icon: "svg/technologies/shadcn.svg",
     },
     {
