@@ -1,5 +1,24 @@
 export const experiences = [
   {
+    title: "Full Stack Web Developer",
+    company: "Freelance Developer",
+    period: "June 2024 - Present | Remote",
+    description:
+      "Designed and developed full-stack web applications tailored to clients' needs, leveraging modern technologies such as Laravel, Inertia.js, React.js, Vue.js, and FilamentPHP. Focused on building scalable and high-performance applications that efficiently handle various business requirements. Ensured seamless user experiences by implementing responsive and dynamic UI components, creating intuitive and visually appealing interfaces that enhance usability.",
+    technologies: [
+      "PHP",
+      "Laravel",
+      "JavaScript",
+      "React.js",
+      "Vue.js",
+      "Inertia.js",
+      "Tailwind CSS",
+      "Shadcn/ui",
+      "MySQL",
+      "SQLite",
+    ],
+  },
+  {
     title: "Programmer/Data Center Staff",
     company: "Encore Leasing and Finance Corporation",
     period: "October 2023 - June 2024 | Onsite",
@@ -10,7 +29,7 @@ export const experiences = [
       "Laravel",
       "JavaScript",
       "jQuery",
-      "Tailwind Css",
+      "Tailwind CSS",
       "MySQL",
     ],
   },
