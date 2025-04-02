@@ -1,9 +1,9 @@
 export const projects = [
   {
     image: "images/projects/ai-powered-note/10.png",
-    title: "ai-powered-note",
+    title: "AI Powered Note",
     description:
-      "Developed a Laravel + React + Inertia.js application integrating Google Gemini AI for intelligent text processing (context-aware continuation, spell check, rewriting, and summarization).",
+      "Developed an AI-powered note-taking application using Laravel, React, and Inertia.js, integrating Google Gemini AI for advanced text processing, including context-aware continuation, spell check, rewriting, and summarization. Designed for seamless performance and intelligent automation.",
     technologies: [
       "Laravel 12",
       "Inertia.js",
