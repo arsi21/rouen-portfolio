@@ -1,5 +1,38 @@
 export const projects = [
   {
+    image: "images/projects/ai-powered-note/10.png",
+    title: "ai-powered-note",
+    description:
+      "Developed a Laravel + React + Inertia.js application integrating Google Gemini AI for intelligent text processing (context-aware continuation, spell check, rewriting, and summarization).",
+    technologies: [
+      "Laravel 12",
+      "Inertia.js",
+      "React.js 19",
+      "Google Gemini AI",
+      "Tailwind CSS",
+      "ShadCN",
+      "SQLite",
+    ],
+    screenshots: [
+      "images/projects/ai-powered-note/1.png",
+      "images/projects/ai-powered-note/2.png",
+      "images/projects/ai-powered-note/3.png",
+      "images/projects/ai-powered-note/4.png",
+      "images/projects/ai-powered-note/5.png",
+      "images/projects/ai-powered-note/6.png",
+      "images/projects/ai-powered-note/7.png",
+      "images/projects/ai-powered-note/8.png",
+      "images/projects/ai-powered-note/9.png",
+      "images/projects/ai-powered-note/10.png",
+      "images/projects/ai-powered-note/11.png",
+      "images/projects/ai-powered-note/12.png",
+      "images/projects/ai-powered-note/13.png",
+      "images/projects/ai-powered-note/14.png",
+      "images/projects/ai-powered-note/15.png",
+      "images/projects/ai-powered-note/16.png",
+    ],
+  },
+  {
     image: "images/projects/inventory-management-system/12.png",
     title: "Inventory Management System",
     description:
